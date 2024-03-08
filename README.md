@@ -1,1 +1,1 @@
-# Machine-learning-Deep-learning-Project
+Machine learning project
